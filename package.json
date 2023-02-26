@@ -1,0 +1,17 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "image-diff": "^2.0.0",
+    "mocha": "^10.2.0",
+    "puppeteer": "^19.7.2",
+    "selenium": "^2.20.0",
+    "selenium-webdriver": "^4.8.1",
+    "sleep-promise": "^9.1.0"
+  }
+}
